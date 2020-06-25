@@ -3,7 +3,9 @@ Use this as checklist / best practices guideline in your job search
 
 By Alvin Borromeo aka @wyliemac\
 Visit my [LinkedIn profile](https://www.linkedin.com/in/alvin-borromeo/)\
-Inspired by [this post](https://www.linkedin.com/pulse/thoughts-job-seeking-communications-api-alvin-borromeo-bs-chem-jd/)
+Inspired by [this post](https://www.linkedin.com/pulse/thoughts-job-seeking-communications-api-alvin-borromeo-bs-chem-jd/) 
+
+This file is a work in progress
 
 ## Researching potential employers
 
@@ -65,4 +67,4 @@ Above all else:
 - [ ] Get plenty of sleep
 - [ ] Exercise
 - [ ] Drink water
-- [ ] Wear a mask in public
+- [ ] **Wear a mask in public**
