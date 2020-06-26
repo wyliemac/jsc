@@ -3,7 +3,7 @@ Use this as checklist / best practices guideline in your job search
 
 By Alvin Borromeo aka @wyliemac\
 Visit my [LinkedIn profile](https://www.linkedin.com/in/alvin-borromeo/)\
-Inspired by [this post](https://www.linkedin.com/pulse/thoughts-job-seeking-communications-api-alvin-borromeo-bs-chem-jd/) 
+Inspired by [this post](https://www.linkedin.com/pulse/thoughts-job-seeking-communications-api-alvin-borromeo-bs-chem-jd/)
 
 This file is a work in progress
 
@@ -41,6 +41,36 @@ Use all of the information you've gathered to write / speak intelligently about 
   - [ ] Highlight anything that is specific to the job
 - [ ] Copy and paste the job description into a word file so you can refer to it during the interview process
   * Why? Because job postings will disappear and if you don't save it, you might not be able to review it when you need it.
+
+## Your Resume
+
+- [ ]
+
+## Your Cover Letter
+
+- [ ]
+
+## The job interview
+
+- [ ] Prepare an [elevator pitch](https://zety.com/blog/elevator-pitch) and practice it prior to the interview
+- [ ]
+
+## Follow-up
+
+- [ ]
+
+## Resources
+
+* [The Muse: What Does the Coronavirus Pandemic Mean for Your Job Search?](https://www.themuse.com/advice/job-search-coronavirus)
+* [The Muse: Researching Potential Employers](https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview)
+* [Undercover Recruiter: Tips for Finding Job Search Success](https://theundercoverrecruiter.com/success-during-job-hunt-tips/)
+* [LifeHacker: Targeting Key Employers](https://lifehacker.com/how-to-get-a-job-by-targeting-the-companies-you-want-to-1723339748)
+* [Forbes: Building A Powerful Personal Brand](https://www.forbes.com/sites/shelcyvjoseph/2018/04/30/5-ways-to-build-a-powerful-personal-brand/#73ea6fa1549e)
+* [Medium: The Complete Guide to Optimizing Your LinkedIn Profile](https://medium.com/better-marketing/the-complete-guide-to-optimizing-your-linkedin-profile-6d9f8d07b9d6)
+* [The Muse: Preparing for an interview](https://www.themuse.com/advice/your-allinone-interview-prep-guide)
+* [Zip Recruiter: The Right Way to Follow Up After a Job Interview](https://www.ziprecruiter.com/blog/the-right-way-to-follow-up-after-a-job-interview/)
+
+* [20+ Effective Communications Skills (Good for a Resume)](https://zety.com/blog/communication-skills)
 
 ## Your LinkedIn Profile
 
